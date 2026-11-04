@@ -1,5 +1,4 @@
-[README_github_prof.md](https://github.com/user-attachments/files/34378961/README_github_prof.md)
-## Hi there 👋
+[README_github_prof.md]
 
 <!--
 **miandfetter/miandfetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
