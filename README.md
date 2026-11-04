@@ -1,7 +1,4 @@
 
-**miandfetter/miandfetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # Hi, I'm Mia 
 
 **Machine learning engineer** building, evaluating, and deploying LLM systems: RAG, agents, fine-tuning, and the MLOps that ships them.
@@ -12,7 +9,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 ### [FinQA-RAG-LoRA](https://github.com/miandfetter/FinQA-RAG-LoRA)
 **Distilling a frontier model's financial reasoning into a 4B open model.**
