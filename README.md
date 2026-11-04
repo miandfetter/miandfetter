@@ -1,6 +1,4 @@
-[README_github_prof.md]
 
-<!--
 **miandfetter/miandfetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -53,4 +51,4 @@ Here are some ideas to get you started:
 ## Get in touch
 [LinkedIn](https://www.linkedin.com/in/mia-ndfetter/) · [Email](mailto:miandfetter@gmail.com) · [Resume](https://drive.google.com/file/d/1D4Vsa4L7TL1aZZS2hcINVg855NmCz_Df/view?usp=sharing)
 
--->
+
