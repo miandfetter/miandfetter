@@ -15,7 +15,7 @@
 **Distilling a frontier model's financial reasoning into a 4B open model.**
 `Qwen3` `LoRA` `FAISS` `GCP Vertex AI` `Docker` `pytest`
 
-- Distilled reasoning from Gemini into **Qwen3-4B** with LoRA, training 0.8% of parameters on ~1,900 rejection-sampled examples in 5 hours on a single L4 GPU
+- Using reasoning from Gemini to fine-tune **Qwen3-4B** with LoRA, training 0.8% of parameters on ~1,900 rejection-sampled examples in 5 hours on a single L4 GPU
 - Raised financial-QA accuracy from **58% → 65% (p = 0.002)**, matching the teacher model within the margin of error
 - RAG over financial reports with text and tables (Gemini embeddings + FAISS, **Recall@3 = 0.92**)
 - Training and eval jobs on Vertex AI with Docker, GCS checkpointing, and 97 pytest tests
